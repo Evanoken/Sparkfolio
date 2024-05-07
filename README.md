@@ -45,7 +45,7 @@ I welcome contributions that enhance the functionality or presentation of Sparkf
 
 ## Licensing
 
-This project is released under the [MIT License]. See the [LICENCE.md](LICENCE) file for full details.
+This project is released under the [MIT License]. See the [/LICENCE.md](LICENCE.md) file for full details.
 
 https://giphy.com/gifs/waltermedia-website-portfolio-l1Oe5bzMJi5LVcbP0u
 
