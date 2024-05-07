@@ -10,13 +10,16 @@ Sparkfolio includes:
 - **Projects**: In-depth showcases of major projects, detailing my role, the technologies used, and the outcomes achieved.
 - **Resume**: Direct access to a downloadable, up-to-date resume.
 - **Contact**: Easy-to-navigate options for professional inquiries, including a contact form linked to my professional email.
-
+https://giphy.com/gifs/Zion-Animations-t8QNJ2LngI5OJQN3FP
+😎
 ## Technical Details
 
 ### Technologies Employed
 
 - HTML5, CSS3, JavaScript
 - Additiona Technologies: React, Node.js, Tailwind]
+
+https://giphy.com/gifs/tomato-carrot-broccoli-4bjIKBOWUnVPICCzJc
 
 ### Installation
 
@@ -43,6 +46,8 @@ I welcome contributions that enhance the functionality or presentation of Sparkf
 ## Licensing
 
 This project is released under the [MIT License]. See the [LICENSE.md](LICENSE) file for full details.
+
+https://giphy.com/gifs/waltermedia-website-portfolio-l1Oe5bzMJi5LVcbP0u
 
 ## Acknowledgements
 
